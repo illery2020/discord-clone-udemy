@@ -30,7 +30,7 @@ const Sidebar = () => {
           <div className="sidebarChannelsHeader">
             <div className="sidebarHeader">
               <ExpandMoreIcon />
-              <h4>Progamming channel</h4>
+              <h4>プログラミングチャンネル</h4>
             </div>
             <AddIcon className="sidebarAddIcon" />
           </div>
